@@ -10,6 +10,11 @@
 
 ## Pipeline tools
 
+- [fastp](https://github.com/OpenGene/fastp)
+
+  > Chen S. Ultrafast one-pass FASTQ data preprocessing, quality control, and deduplication using fastp. Imeta. 2023 May 8;2(2 :e107. doi: 10.1002/imt2.107. PMID: 38868435; PMCID: PMC10989850.
+
+
 - [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 
   > Andrews, S. (2010). FastQC: A Quality Control Tool for High Throughput Sequence Data [Online].
@@ -17,6 +22,10 @@
 - [MultiQC](https://pubmed.ncbi.nlm.nih.gov/27312411/)
 
   > Ewels P, Magnusson M, Lundin S, Käller M. MultiQC: summarize analysis results for multiple tools and samples in a single report. Bioinformatics. 2016 Oct 1;32(19):3047-8. doi: 10.1093/bioinformatics/btw354. Epub 2016 Jun 16. PubMed PMID: 27312411; PubMed Central PMCID: PMC5039924.
+
+- [seroba](https://github.com/sanger-pathogens/seroba)
+
+  > Epping L, van Tonder AJ, Gladstone RA, The Global Pneumococcal Sequencing Consortium, Bentley SD, Page AJ, Keane JA. SeroBA: rapid high-throughput serotyping of Streptococcus pneumoniae from whole genome sequence data. Microb Genom. 2018 Jul;4(7):e000186. doi: 10.1099/mgen.0.000186. Epub 2018 Jun 15. Erratum in: Microb Genom. 2018 Aug;4(8). doi: 10.1099/mgen.0.000204. PMID: 29870330; PMCID: PMC6113868.
 
 ## Software packaging/containerisation tools
 
