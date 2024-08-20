@@ -292,5 +292,25 @@
         {
             "$ref": "#/definitions/generic_options"
         }
-    ]
+    ],
+    "properties": {
+        "adapter_fasta": {
+            "type": "string"
+        },
+        "save_trimmed_fail": {
+            "type": "boolean"
+        },
+        "save_merged": {
+            "type": "boolean"
+        },
+        "skip_fastp": {
+            "type": "boolean"
+        },
+        "skip_fastqc": {
+            "type": "boolean"
+        },
+        "extra_fastp_args": {
+            "type": "string"
+        }
+    }
 }
